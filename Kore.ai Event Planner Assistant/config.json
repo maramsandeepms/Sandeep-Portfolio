@@ -1,0 +1,31 @@
+{
+    "name": "Event Planner Assistant",
+    "envVariables": [
+        {
+            "key": "host",
+            "value": "https://platform.kore.ai/",
+            "variableType": "env",
+            "hint": "",
+            "scope": "prePopulated",
+            "group": "",
+            "propagateValue": false,
+            "vNameSpace": [
+                "5f97e330ade5b8100b912d1a"
+            ],
+            "isSecured": false
+        },
+        {
+            "key": "botId",
+            "value": "st-1d4b49c4-12b5-569e-87f5-7a205fb61fdc",
+            "variableType": "env",
+            "hint": "",
+            "scope": "prePopulated",
+            "group": "",
+            "propagateValue": false,
+            "vNameSpace": [
+                "5f97e330ade5b8100b912d1a"
+            ],
+            "isSecured": false
+        }
+    ]
+}
